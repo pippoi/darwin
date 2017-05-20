@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.dracula.ga/post/hello-world/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/tags/hello/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/post/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/tags/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/categories/technology/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dracula.ga/tags/world/</loc>
+    <lastmod>2017-05-10T23:53:38-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
